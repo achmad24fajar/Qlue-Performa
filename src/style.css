@@ -1,0 +1,28 @@
+.people,
+.chart {
+  margin-top: 40px;
+}
+.table {
+  margin-top: 38px;
+}
+th {
+  font-size: 15px;
+}
+td {
+  font-size: 13px;
+}
+.loading {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  z-index: 1000;
+}
+.loading h2 {
+  color: #ffffff;
+  vertical-align: middle;
+  line-height: 100vh;
+}
